@@ -1,0 +1,19 @@
+{
+  "name": "academic-business-simulation",
+  "version": "1.0.0",
+  "description": "Academic Business Strategy Simulation Platform - Minimalistic Frontend",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 server.py 3000",
+    "serve": "python3 server.py 3000"
+  },
+  "keywords": [
+    "business-simulation",
+    "academic",
+    "strategy",
+    "mba"
+  ],
+  "author": "Academic Business Strategy Simulation",
+  "license": "MIT"
+}
